@@ -1,0 +1,28 @@
+{
+  "name": "lisk-dex-encrypt-passphrase",
+  "version": "1.0.0",
+  "description": "CLI command to quickly encrypt a passphrase for use by lisk-dex.",
+  "main": "bin/cli.js",
+  "bin": {
+    "lisk-dex-encrypt-passphrase": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondubois/lisk-dex-encrypt-passphrase.git"
+  },
+  "keywords": [
+    "lisk",
+    "dex",
+    "encrypt",
+    "passphrase"
+  ],
+  "author": "Jonathan Gros-Dubois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondubois/lisk-dex-encrypt-passphrase/issues"
+  },
+  "homepage": "https://github.com/jondubois/lisk-dex-encrypt-passphrase#readme"
+}
