@@ -1,6 +1,6 @@
 {
   "name": "lisk-dex-encrypt-passphrase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI command to quickly encrypt a passphrase for use by lisk-dex.",
   "main": "bin/cli.js",
   "bin": {
