@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const crypto = require('crypto');
 
 const algorithm = 'aes-192-cbc';
