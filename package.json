@@ -1,20 +1,20 @@
 {
-  "name": "lisk-dex-encrypt-passphrase",
+  "name": "capitalisk-dex-encrypt-passphrase",
   "version": "1.0.4",
-  "description": "CLI command to quickly encrypt a passphrase for use by lisk-dex.",
+  "description": "CLI command to quickly encrypt a passphrase for use by capitalisk-dex.",
   "main": "bin/cli.js",
   "bin": {
-    "lisk-dex-encrypt-passphrase": "bin/cli.js"
+    "capitalisk-dex-encrypt-passphrase": "bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jondubois/lisk-dex-encrypt-passphrase.git"
+    "url": "git+https://github.com/jondubois/capitalisk-dex-encrypt-passphrase.git"
   },
   "keywords": [
-    "lisk",
+    "capitalisk",
     "dex",
     "encrypt",
     "passphrase"
@@ -22,7 +22,7 @@
   "author": "Jonathan Gros-Dubois",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jondubois/lisk-dex-encrypt-passphrase/issues"
+    "url": "https://github.com/jondubois/capitalisk-dex-encrypt-passphrase/issues"
   },
-  "homepage": "https://github.com/jondubois/lisk-dex-encrypt-passphrase#readme"
+  "homepage": "https://github.com/jondubois/capitalisk-dex-encrypt-passphrase#readme"
 }
